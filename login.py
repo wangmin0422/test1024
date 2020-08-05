@@ -11,3 +11,5 @@ num6 = 500 # manager
 num5 = 50 # zhansan
 
 分支操作
+
+num6 = 700  # manager
